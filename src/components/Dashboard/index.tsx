@@ -1,4 +1,3 @@
-import { api } from "../../services/api";
 import { Summary } from "../Summary";
 import { TransactionTable } from "../TransactionsTable";
 import { Container } from "./styles";
